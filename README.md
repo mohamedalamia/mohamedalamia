@@ -5,6 +5,9 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+echo .DS_Store >> ~/.gitignore_global
+git config --global core.excludesfile ~/.gitignore_global
+
 
 <!---
 mohamedalamia/mohamedalamia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
